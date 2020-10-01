@@ -19,4 +19,4 @@ inputs:
     desc: The list of resource groups you would like to scan
     type: Array
     value:
-      - myWebGoatRG
+      - webGoatRG
